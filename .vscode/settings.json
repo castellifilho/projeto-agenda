@@ -53,5 +53,5 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "workbench.editorAssociations": {
     "*.xlsx": "default"
-  }
+  } 
 }
