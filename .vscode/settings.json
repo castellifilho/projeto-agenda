@@ -53,6 +53,6 @@
   "cSpell.enabled": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "workbench.editorAssociations": {
-    "*.xlsx": "default"
+    "*.xlsx": "default"    
   } 
 }
